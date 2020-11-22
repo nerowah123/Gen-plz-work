@@ -1,0 +1,26 @@
+{
+  "name": "gen",
+  "version": "2.0.0",
+  "description": "Free Account Generator",
+  "main": "jewdev.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ph"
+  },
+  "author": "lait",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://google.com"
+  },
+  "homepage": "Gen",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  }
+}
